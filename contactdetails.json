@@ -5,9 +5,16 @@
 			"67 Mauban Street cor Matutum Street,",
 			"Barangay Manresa, 1115 Quezon City, Philippines"
 		],
+		"hotline": [
+			"(02) 8364-9999"
+		],
+		"landline": [
+			"(02) 8364-3505 to 09",
+			"(02) 8365-0561 to 64"
+		],
 		"fax": [
-			"(02) 8361-7164",
-			"(02) 8367-8881"
+			"(02) 8367-8881",
+			"(02) 8361-7164"
 		],
 		"email": [
 			"inquiry@boysen.com.ph"
@@ -28,8 +35,8 @@
 			"(0918) 913-6000"
 		],
 		"email": [
-			"marketing@boysen.com.ph",
-			"technical@boysen.com.ph"
+			"technical@boysen.com.ph",
+			"marketing@boysen.com.ph"
 		],
 		"website": [
 			"www.boysen.com.ph"
@@ -47,14 +54,19 @@
 			"img":"images/social/ig.png"
 		},
 		{
+			"url":"https://www.studioboysen.com/",
+			"name":"studioboysen.com",
+			"img":"images/social/studioboysen.png"
+		},
+		{
 			"url":"https://www.youtube.com/user/BoysenPaintsPhil",
 			"name":"Boysen Paints",
 			"img":"images/social/youtube.png"
 		},
 		{
-			"url":"https://www.pinterest.ph/boysenpaints/",
-			"name":"Boysen Paints",
-			"img":"images/social/pinterest.png"
+			"url":"https://www.twitter.com/boysenpaints",
+			"name":"@boysenpaints",
+			"img":"images/social/twitter.png"
 		},
 		{
 			"url":"https://www.myboysen.com/",
@@ -62,19 +74,14 @@
 			"img":"images/social/my.png"
 		},
 		{
-			"url":"https://www.studioboysen.com/",
-			"name":"studioboysen.com",
-			"img":"images/social/studioboysen.png"
+			"url":"https://www.pinterest.ph/boysenpaints/",
+			"name":"Boysen Paints",
+			"img":"images/social/pinterest.png"
 		},
 		{
 			"url":"https://www.boysenvr.com/",
 			"name":"boysenvr.com",
 			"img":"images/social/boysenvr.png"
-		},
-		{
-			"url":"https://www.twitter.com/boysenpaints",
-			"name":"@boysenpaints",
-			"img":"images/social/twitter.png"
 		}
 	]
 }
