@@ -1,0 +1,48 @@
+{
+	"main": {
+		"address":[
+			"PACIFIC PAINT (BOYSEN) PHILIPPINES, INC.",
+			"67 Mauban Street cor Matutum Street,",
+			"Barangay Manresa, 1115 Quezon City, Philippines"
+		],
+		"hotline": [
+			"(02) 8364-9999"
+		],
+		"landline": [
+			"(02) 8364-3505 to 09",
+			"(02) 8365-0561 to 64"
+		],
+		"fax": [
+			"(02) 8361-7164",
+			"(02) 8367-8881"
+		],
+		"mobile": [],
+		"email": [
+			"inquiry@boysen.com.ph"
+		]
+	},
+	"marketing": {
+		"address":[
+			"276-278 D. Tuazon St.",
+			"1115 Quezon City"
+		],
+		"hotline": [],
+		"landline": [
+			"(02) 8363-9738",
+			"(02) 8367-8880"
+		],
+		"fax": [
+			"(02) 8367-8878"
+		],
+		"mobile": [
+			"(0918) 913-6000"
+		],
+		"email": [
+			"marketing@boysen.com.ph",
+			"technical@boysen.com.ph"
+		],
+		"website": [
+			"www.boysen.com.ph"
+		]
+	}
+}
