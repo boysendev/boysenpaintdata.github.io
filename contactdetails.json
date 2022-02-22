@@ -52,24 +52,9 @@
 			"img":"images/social/ig.png"
 		},
 		{
-			"url":"https://www.studioboysen.com/",
-			"name":"studioboysen.com",
-			"img":"images/social/studioboysen.png"
-		},
-		{
 			"url":"https://www.youtube.com/user/BoysenPaintsPhil",
 			"name":"Boysen Paints",
 			"img":"images/social/youtube.png"
-		},
-		{
-			"url":"https://www.twitter.com/boysenpaints",
-			"name":"@boysenpaints",
-			"img":"images/social/twitter.png"
-		},
-		{
-			"url":"https://www.myboysen.com/",
-			"name":"Blog:myboysen.com",
-			"img":"images/social/my.png"
 		},
 		{
 			"url":"https://www.pinterest.ph/boysenpaints/",
@@ -77,9 +62,24 @@
 			"img":"images/social/pinterest.png"
 		},
 		{
+			"url":"https://www.myboysen.com/",
+			"name":"Blog:myboysen.com",
+			"img":"images/social/my.png"
+		},
+		{
+			"url":"https://www.studioboysen.com/",
+			"name":"studioboysen.com",
+			"img":"images/social/studioboysen.png"
+		},
+		{
 			"url":"https://www.boysenvr.com/",
 			"name":"boysenvr.com",
 			"img":"images/social/boysenvr.png"
+		},
+		{
+			"url":"https://www.twitter.com/boysenpaints",
+			"name":"@boysenpaints",
+			"img":"images/social/twitter.png"
 		}
 	]
 }
